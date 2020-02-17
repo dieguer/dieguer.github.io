@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Diego Rojas</title>
-    <link>https://drojas.github.io/authors/</link>
-      <atom:link href="https://drojas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dieguer.github.io/authors/</link>
+      <atom:link href="https://dieguer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>https://drojas.github.io/authors/</link>
+      <link>https://dieguer.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://drojas.github.io/authors/admin/</link>
+      <link>https://dieguer.github.io/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://drojas.github.io/authors/admin/</guid>
+      <guid>https://dieguer.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am graduate student at the department of 
 &lt;a href=&#34;http://economics.emory.edu/home/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economics&lt;/a&gt;  at 
 &lt;a href=&#34;http://www.emory.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emory University&lt;/a&gt;. I started in the program the Fall semester of 2017. Originally, I come from Quito-Ecuador. I obtained my Bachelor degree at 
@@ -29,9 +29,9 @@
     
     <item>
       <title>Robert Ford</title>
-      <link>https://drojas.github.io/authors/robert-ford/</link>
+      <link>https://dieguer.github.io/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://drojas.github.io/authors/robert-ford/</guid>
+      <guid>https://dieguer.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
