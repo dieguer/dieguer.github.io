@@ -5,7 +5,7 @@
     <link>https://dieguer.github.io/authors/</link>
       <atom:link href="https://dieguer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>David T Jacho-Chávez</title>
+      <link>https://dieguer.github.io/authors/david-t-jacho-chavez/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/david-t-jacho-chavez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Rojas</title>
+      <link>https://dieguer.github.io/authors/diego-rojas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/diego-rojas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Estrada</title>
+      <link>https://dieguer.github.io/authors/juan-estrada/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/juan-estrada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kim P Huynh</title>
+      <link>https://dieguer.github.io/authors/kim-p-huynh/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/kim-p-huynh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://dieguer.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://dieguer.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am graduate student at the department of 
 &lt;a href=&#34;http://economics.emory.edu/home/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economics&lt;/a&gt;  at 
@@ -28,10 +60,42 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://dieguer.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dieguer.github.io/authors/robert-ford/</guid>
+      <title>D Rojas</title>
+      <link>https://dieguer.github.io/authors/d-rojas/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/d-rojas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Castillo</title>
+      <link>https://dieguer.github.io/authors/r-castillo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/r-castillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Escobar</title>
+      <link>https://dieguer.github.io/authors/a-escobar/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/a-escobar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Molina</title>
+      <link>https://dieguer.github.io/authors/a-molina/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/a-molina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Mancheno</title>
+      <link>https://dieguer.github.io/authors/diego-mancheno/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/authors/diego-mancheno/</guid>
       <description></description>
     </item>
     
