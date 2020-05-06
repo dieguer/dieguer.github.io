@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim P. Huynh | Diego Rojas</title>
+    <link>https://dieguer.github.io/authors/kim-p.-huynh/</link>
+      <atom:link href="https://dieguer.github.io/authors/kim-p.-huynh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim P. Huynh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 14:27:10 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kim P. Huynh</title>
+      <link>https://dieguer.github.io/authors/kim-p.-huynh/</link>
+    </image>
+    
+    <item>
+      <title>Data Science in Stata 16: Frames, Lasso, and Python Integration</title>
+      <link>https://dieguer.github.io/publication/jss-stata16/</link>
+      <pubDate>Mon, 17 Feb 2020 14:27:10 +0000</pubDate>
+      <guid>https://dieguer.github.io/publication/jss-stata16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
