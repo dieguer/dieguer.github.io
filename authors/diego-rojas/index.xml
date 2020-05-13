@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Rojas</title>
+    <link>https://dieguer.github.io/authors/diego-rojas/</link>
+      <atom:link href="https://dieguer.github.io/authors/diego-rojas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diego Rojas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 14:27:10 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Diego Rojas</title>
+      <link>https://dieguer.github.io/authors/diego-rojas/</link>
+    </image>
+    
+    <item>
+      <title>Data Science in Stata 16: Frames, Lasso, and Python Integration</title>
+      <link>https://dieguer.github.io/publication/jss-stata16/</link>
+      <pubDate>Mon, 17 Feb 2020 14:27:10 +0000</pubDate>
+      <guid>https://dieguer.github.io/publication/jss-stata16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Survival Analysis of Banknote Circulation: Fitness, Network Structure, and Machine Learning.</title>
+      <link>https://dieguer.github.io/publication/estra-2020-nonparametric/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/publication/estra-2020-nonparametric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localización de centros de empleo y su influencia sobre la distribución de la población en el distrito metropolitano de quito</title>
+      <link>https://dieguer.github.io/publication/rojas-2015-localizacion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/publication/rojas-2015-localizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subcentros de empleo en el DMQ y la creación de centralidades en el Plan Metropolitano de Ordenamiento Territorial 2012-2022</title>
+      <link>https://dieguer.github.io/publication/mancheno-2013-subcentros/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/publication/mancheno-2013-subcentros/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
