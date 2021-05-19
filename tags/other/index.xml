@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Diego Rojas</title>
+    <link>https://dieguer.github.io/tags/other/</link>
+      <atom:link href="https://dieguer.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Other</title>
+      <link>https://dieguer.github.io/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Local Government Revenue Analyzer</title>
+      <link>https://dieguer.github.io/project/localgov/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://dieguer.github.io/project/localgov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
